@@ -1,0 +1,59 @@
+body{
+    border-radius: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("vegeta-recovery.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 254, 254);
+}
+.container{
+    border-radius: 50px;
+    text-align: center;
+    align-items: center;
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.register{
+    text-align: center;
+    border-radius: 50px;
+    width: 45vw;
+    
+}
+.register{
+    text-align: center;
+    border-radius: 50px;
+    width: 45vw;
+}
+
+#adiciona{
+    border-radius: 50px;
+    width: 200xp;
+
+}
+#logar{
+    border-radius: 50px;
+    width: 200xp;
+
+
+}
+#edit{
+    border-radius: 50px;
+    width: 200xp;  
+}
+#delete{
+    border-radius: 50px;
+    width: 200xp;  
+}
+input{
+    border-radius: 50px;
+    width: 200px;
+    height: 20px;
+}
