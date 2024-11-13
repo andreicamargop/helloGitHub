@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #63615f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section{
+    border-radius: 15px;
+    border-style: groove;
+    background-color: rgb(65, 79, 207);
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 14%;
+    height: 10%;
+}
+input{
+    width: 75%;
+}
+button{
+    width: 75%;
+    background-color: rgb(218, 70, 12);
+    border-radius: 15px;
+}
+button:hover{
+    width: 70%;
+    background-color: rgb(30, 86, 134);
+}
+h1{
+    font-family: sans-serif;
+    color: rgb(255, 245, 245);
+    
+}
+h3{
+    font-family: sans-serif;
+    color: rgb(255, 245, 245);  
+}
